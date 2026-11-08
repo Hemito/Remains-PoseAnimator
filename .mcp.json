@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pony-animator": {
+      "command": "node",
+      "args": [
+        "server/mcp.mjs"
+      ]
+    }
+  }
+}
